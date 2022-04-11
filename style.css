@@ -1,0 +1,24 @@
+.container{
+    border: 1px solid red;
+    width: 40%;
+    position: relative;
+    top: 30px;
+    padding: 15px;
+}
+
+.container .input{
+    width: 80%
+}
+.container .inputbtn{
+    width: 50px;
+}
+ul {
+    list-style-type: none;
+}
+.container li a{
+    float: right;
+    text-decoration: none;
+}
+#error{
+    color: red;
+}
